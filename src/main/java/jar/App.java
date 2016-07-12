@@ -14,8 +14,7 @@ public class App
     public static void main( String[] args )
     {
 
-        WebDriver driver = new FirefoxDriver();
-        String baseUrl = "http://newtours.demoaut.com";
-        String expectedTitle = "Welcome: Mercury Tours";
+        System.out.println("lovely");
+        System.out.println("Hello India");
     }
 }
